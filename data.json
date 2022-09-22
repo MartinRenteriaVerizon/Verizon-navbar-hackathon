@@ -1,0 +1,109 @@
+{
+  "navsection": [
+    {
+      "section_type": "main",
+      "items": [
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/shop/products/devices/smartphones/",
+            "link_title": "Shop",
+            "valid_sites": "global",
+            "status": "wip"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/products/",
+            "link_title": "Products",
+            "status": "wip"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/products/plans/",
+            "link_title": "Plans",
+            "valid_sites": "global",
+            "status": "wip"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/solutions/",
+            "link_title": "Solutions",
+            "status": "wip"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/resources/",
+            "link_title": "Resources",
+            "status": "wip"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/contact-us/phone/",
+            "link_title": "Contact Us",
+            "valid_sites": "global",
+            "status": "wip",
+            "note": "This link will only be used on global as it is US-specific"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/contact/",
+            "link_title": "Contact Us",
+            "valid_sites": "en-*",
+            "status": "wip",
+            "note": "Country site directory will be inserted by frontend server for learn site"
+          },
+          "formatting": {
+            "column break": "1",
+            "valid_sites": "*",
+            "status": "wip"
+          }
+        },
+        {
+          "link": {
+            "section_header": "overview",
+            "url": "/business/products/why-verizon/",
+            "link_title": "Why Verizon",
+            "status": "wip"
+          }
+        }
+      ]
+    }
+  ]
+}
